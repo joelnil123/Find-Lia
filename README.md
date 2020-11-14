@@ -1,2 +1,2 @@
-App to helt student find a internspot
+App to help student find a internspot
 
